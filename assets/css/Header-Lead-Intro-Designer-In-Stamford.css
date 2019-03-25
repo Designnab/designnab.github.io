@@ -1,0 +1,22 @@
+p {
+  text-justify: inherit;
+}
+
+P {
+  letter-spacing: 1.5PX;
+}
+
+p {
+  position: relative;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: #fff;
+}
+
+b, strong {
+  display: block;
+  text-align: initial;
+  align-content: center;
+}
+

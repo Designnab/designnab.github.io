@@ -1,0 +1,10 @@
+#fancyhomelink a:hover {
+  color: #9cff00;
+  text-decoration-line: none;
+}
+
+.nav-link:hover {
+  color: #86db00;
+  text-decoration: underline;
+}
+
